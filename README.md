@@ -1,8 +1,8 @@
-# Proyecto Juego -
+# Proyecto Juego - El Gato (Tic Tac Toe)
 
 ## Descripción del proyecto
 
-El presente proyecto implementa el Juego 
+El presente proyecto implementa el Juego del Gato. 
 
 # Trabajo en Equipo
 
